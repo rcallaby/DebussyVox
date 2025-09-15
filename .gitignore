@@ -1,0 +1,7 @@
+__pycache__/
+node_modules/
+dist/
+.env
+*.pyc
+*.mp3
+/static/audio/
